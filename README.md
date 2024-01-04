@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Java and Javascript.
 - 😄 Pronouns: he/him
 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=munna-yadav)](https://github.com/munna-yadav/github-readme-stats)
+
 <!--
 **munna-yadav/mnna-yadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
