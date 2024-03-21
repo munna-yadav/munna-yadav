@@ -1,6 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 ### I am Muna Yadav, a tech enthusiast and a beginner in the world of programming.
-- 🌱 I’m currently learning Java and Javascript.
+- 🌱 I’m currently learning Express.js
+- 📫 Reach me at [mail.munna50\@gmail.com](mailto:mail.munna50@gmail.com?subject=Test)
 - 😄 Pronouns: he/him
 
 
